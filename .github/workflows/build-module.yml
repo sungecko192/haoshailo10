@@ -28,8 +28,8 @@ env:
   HAOS_DEFCONFIG: rpi5_64
   # Hailo's public GPL-2.0 driver source, pinned to the v5.1.1 tag's commit.
   DRIVER_REPO: hailo-ai/hailort-drivers
-  DRIVER_TAG: v5.1.1
-  DRIVER_COMMIT: 0f7b9cac89e6b559ce825e04b5b017c820a7b080
+  DRIVER_TAG: v5.2.0
+  DRIVER_COMMIT: 8762100214fa5f199de610733ad262a19d22c801
 
 jobs:
   detect:
